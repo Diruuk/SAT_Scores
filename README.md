@@ -16,13 +16,3 @@
 
 <p>Data</p>
 <p>We will make us of data that is published by the City of New York. This includes SAT scores, demographic information and other data that is useful for our study.</p>
-
-<p>Contents</p>
-
-<p>The remainder of the notebook contains the following sections:</p>
-
-* Data preparations and cleaning
-* Overview of the data
-* Data analysis and visualization
-* SAT scores per boro and per district
-* Wrap-up and conclusions
