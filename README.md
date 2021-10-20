@@ -7,6 +7,7 @@
 <p>In this study we will investigate correlations between SAT scores and demographics like race, gender, income, and more.</p>
 
 <p>Objectives</p>
+
 * Determine if there are any interesting correlations and analyze them
 * Figure out which neighborhoods have the best schools
  * If we combine this information with a dataset containing property values, we could find the least expensive neighborhoods that have good schools.
